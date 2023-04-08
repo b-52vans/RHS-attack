@@ -20,7 +20,10 @@ This tool is mixup of 4 main thing:-
 
 <h2>How to use it</h2>
  This tool is very easy to use follow these steps:-<br>
-<b>Step 1=>><br>
+<b>Step 1=>></b><br>
+Copy the repository
+<b>Step 2=>><br>
+
 
 
 
