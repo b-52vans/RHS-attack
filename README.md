@@ -18,5 +18,10 @@ This tool is mixup of 4 main thing:-
 4. Android application
 
 
+<h2>How to use it</h2>
+ This tool is very easy to use follow these steps:-<br>
+<b>Step 1=>><br>
+
+
 
 
