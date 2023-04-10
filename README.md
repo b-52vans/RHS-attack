@@ -21,7 +21,13 @@ This tool is mixup of 4 main thing:-
 <h2>How to use it</h2>
  This tool is very easy to use follow these steps:-<br>
 Visit our site to get how to use it.
+<br>
 http://b-52rhs.000webhostapp.com
+<h2>contact us on </h2>
+<Br>
+Instagram: b_52vans__
+Snap chat : sirm122, sirm1222
+
 
 
 
